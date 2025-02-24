@@ -1,1 +1,0 @@
-# sectionsyndicale-pe-almond.github.io

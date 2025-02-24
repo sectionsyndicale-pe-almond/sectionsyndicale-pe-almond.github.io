@@ -1,0 +1,17 @@
+Adrien GAILLARD:
+  name        : "Adrien GAILLARD"
+  bio         : "Délégué syndicale et élu titulaire CSE"
+  avatar      : "/assets/images/user-solid.svg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:agaillard@printemps-ecologique.fr"
+
+Kilian FAVERO:
+  name        : "Kilian FAVERO"
+  bio         : "Membre de la section et élu suppléant CSE"
+  avatar      : "/assets/images/user-solid.svg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kfavero@printemps-ecologique.fr"

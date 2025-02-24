@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Informations"
+    url: /informations
+  - title: "Equipe"
+    url: /members
+  - title: "Articles"
+    url: /
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
