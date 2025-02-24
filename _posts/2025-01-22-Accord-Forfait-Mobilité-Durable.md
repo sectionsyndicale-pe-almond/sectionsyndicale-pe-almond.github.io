@@ -64,7 +64,7 @@ Nous déplorons que pour cette première négociation, la Direction n'ait pas pl
 {: .notice--danger}
 
 ## Récapitulatif de la situation
-Voici le tableau chiffré récapitulatif de la situation initiale et des propositions que nous avons produites, nous nous rendons compte que la Direction refuse de négocier une proposition d'augmentation de 2400€ annuel du budget pour l'ensemble du groupe (avec l'hypothèse de l'usage réel côté Amossys de 30%) en contradiction avec l'image affichée d'ambitions RSE, principalement pour une raison de "fond" qui revient à niveller par le bas la rétribution des déplacements.
+Voici le tableau chiffré récapitulatif de la situation initiale et des propositions que nous avons produites, nous nous rendons compte que la Direction refuse de négocier une proposition d'augmentation de 1400€ annuel du budget pour l'ensemble du groupe (avec l'hypothèse de l'usage réel côté Amossys de 30%) en contradiction symbolique avec l'image affichée d'ambitions RSE, principalement pour une raison de "fond" qui revient à niveller par le bas la rétribution des déplacements.
 
 ![Tableau récapitulatif des NAO sur le FMD.](../../../assets/images/posts/20250122-recap_propositions.png)
 
