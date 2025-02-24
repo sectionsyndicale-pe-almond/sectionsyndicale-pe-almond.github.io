@@ -1,3 +1,12 @@
+Loic PAJOT:
+  name        : "Loïc PAJOT"
+  bio         : "Membre de la section"
+  avatar      : "/assets/images/user-solid.svg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kfavero@printemps-ecologique.fr"
+
 Adrien GAILLARD:
   name        : "Adrien GAILLARD"
   bio         : "Délégué syndicale et élu titulaire CSE"
