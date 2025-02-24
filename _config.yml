@@ -3,7 +3,7 @@ masthead_title: " "
 subtitle: ""
 email: contact@printemps-ecologique.fr
 description: >- 
-  Section syndicale du Printemps écologique dans l'entreprise Almond
+  Section syndicale du Printemps écologique dans le groupe Almond
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 include: ["_pages"]
