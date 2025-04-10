@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Fermeture 2025 et organisation des congés : malgré une inflexion, la direction persiste"
-date:   2025-04-10 18:25:35 +0000
+date:   2025-04-09 10:25:35 +0000
 toc: false
 toc_sticky: true
 author_profile: false
