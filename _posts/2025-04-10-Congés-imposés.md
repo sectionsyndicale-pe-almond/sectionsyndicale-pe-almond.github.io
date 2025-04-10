@@ -41,7 +41,7 @@ Enfin, la direction a ajouté deux nouvelles contraintes, qui n'avaient pas ét�
 - Obligation de poser en priorité des jours de RTT
 
 ## Conclusion
-Nous nous opposons à ces règles. La date limite annoncée tardivement pour la pose de congés sur la période estivale est très difficulté voire impossible à respecter pour les salarié⋅es qui n'ont pas à connaître leur projet de vacances jusqu'à 6 mois à l'avance.
+Nous nous opposons à ces règles. La date limite annoncée tardivement pour la pose de congés sur la période estivale est difficile voire impossible à respecter pour les salarié⋅es qui n'ont pas à connaître leur projet de vacances jusqu'à 6 mois à l'avance.
 
 Un flou persiste encore quant aux nouvelles et nouveaux arrivant·es (CDD, CDI, et stagiaires) dans nos entreprises qui n'auront pas cumulé suffisamment de congés.
 
