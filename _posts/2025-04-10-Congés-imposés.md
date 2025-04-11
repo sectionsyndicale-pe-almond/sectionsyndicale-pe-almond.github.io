@@ -22,7 +22,7 @@ En début d'année, la direction envisageait d'imposer 16 jours de congés aux s
 - Vendredi 2 Mai
 - Vendredi 30 Mai
 - 10 jours ouvrés à prendre entre le 1er Juillet et le 31 Août
-- Du 26 Décembre au 2 Janvier (1 jour de congé imposé au 1er janvier 2026)
+- Du 26 Décembre au 2 Janvier (le 2 janvier donc déjà imposé sur l'année 2026)
 
 ## Analyse
 Suite à une réaction collective des salarié⋅es et de leurs représentant⋅es, la prise des 10 jours ouvrés sur la période estivale a finalement été élargie du 1er Juin au 31 Septembre.
@@ -31,7 +31,7 @@ Les sections Printemps écologique et [Solidaires Informatique](https://almond.s
 
 En effet, le projet initial d'imposer 6 RTT aux salarié⋅es a été conservé, alors que les salarié⋅es n'en ont que 8 sur l'année 2025 (pour celles et ceux qui en ont). Cela représente donc factuellement une perte de liberté conséquente pour les personnes concernées.
 
-Nous rappelons également qu'au moment de la présentation du projet aux élu⋅es puis aux salarié⋅es", **aucune étude n'a été présentée sur le dispositif de 2024 et celui de 2025 pour mettre en évidence un gain substantiel de rentabilité** (malgré les demandes répétées des représentant⋅es du personnel). Et quand bien même un tel gain serait démontré, nous estimons que c'est aux salarié⋅es de décider librement et en connaissance de cause de la pose de leurs congés. 
+Nous rappelons également qu'au moment de la présentation du projet aux élu⋅es puis aux salarié⋅es, **aucune étude n'a été présentée sur le dispositif de 2024 et celui de 2025 pour mettre en évidence un gain substantiel de rentabilité** (malgré les demandes répétées des représentant⋅es du personnel). Et quand bien même un tel gain serait démontré, nous estimons que c'est aux salarié⋅es de décider librement et en connaissance de cause de la pose de leurs congés. 
 
 Plus spécifiquement, sur les périodes de Noël et des ponts de mai. Les sections syndicales s'interrogent sur la légalité de la fermeture d'entreprise lorsque certaines activités et/ou salarié⋅es sont exempté⋅es pour maintenir une « continuité d’activité » (SOC et MSC principalement). La convention collective ([art.5.4](https://www.syntec.fr/convention-collective/conges/#article-5-4)) est claire sur le fait que la **fermeture de l'entreprise doit être totale**.
 
