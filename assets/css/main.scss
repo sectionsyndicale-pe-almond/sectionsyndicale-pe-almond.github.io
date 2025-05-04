@@ -5,5 +5,19 @@ search: false
 
 @charset "utf-8";
 
+$primary-color: #17925a !default;
+$link-color: #17925a !default;
+$footer-background-color: #17925a !default;
+// $border-color: mix(#fff, #17925a, 75%) !default;
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+table {
+  margin-top: 1em;
+}
+
+thead {
+  background-color: $background-color;
+}
