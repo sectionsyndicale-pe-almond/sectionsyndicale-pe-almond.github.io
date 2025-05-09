@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Informations"
-    url: /informations
-  - title: "Equipe"
-    url: /members
   - title: "Articles"
     url: /
+  - title: "Accords"
+    url: /accords
+  - title: "Equipe"
+    url: /members
+  - title: "Informations"
+    url: /informations
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
