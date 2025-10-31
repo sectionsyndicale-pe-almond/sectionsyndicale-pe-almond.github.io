@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Accords"
     url: /accords
+  - title: "Nécociations"
+    url: /negociations
   - title: "Equipe"
     url: /members
   - title: "Informations"
