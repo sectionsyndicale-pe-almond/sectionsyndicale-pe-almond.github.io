@@ -5,6 +5,10 @@ permalink: /accords/
 classes: wide
 ---
 
+<br/>
+
+# Liste des accords
+
 
 | Titre accord                                                                                                | Valide                         | Type     | Signature      | Début de validité   | Fin de validité |
 | ---                                                                                                         | :---:                          | ---      | :---:          | :---:               | :---:           | 
