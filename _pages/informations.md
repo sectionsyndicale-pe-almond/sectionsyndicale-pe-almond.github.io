@@ -24,6 +24,8 @@ paragraph_2:
     btn_class: "btn--primary"
 
 ---
+<br/>
+
 {% include feature_row id="paragraph_1" type="left" %}
 {% include feature_row id="paragraph_2" type="right" %}
 
